@@ -8,10 +8,13 @@ To write a program to implement the simple linear regression model for predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.To implement the linear regression using the standard libraries in the python.
+2.Use slicing function() for the x,y values.
+3.Using sklearn library import training , testing and linear regression modules.
+4.Predict the value for the y.
+5.Using matplotlib library plot the graphs.
+6.Use xlabel for hours and ylabel for scores.
+7.End the porgram.
 
 ## Program:
 ```
@@ -54,7 +57,8 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://user-images.githubusercontent.com/88264052/175294409-7c8f7343-0417-449b-94e2-7881cf7436c6.png)
+
 
 
 ## Result:
